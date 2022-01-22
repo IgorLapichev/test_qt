@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/CustomTreeView.qml</file>
+        <file>qml/openmedia.qml</file>
+        <file>qml/MessageDialog.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,12 @@
+import QtQuick 2.2
+import QtQuick.Dialogs 1.1
+
+MessageDialog {
+    id: messageDialog
+    title: "Wrong path to compare"
+    text: "Select correct path"
+    onAccepted: {
+    }
+    
+    Component.onCompleted: visible = true
+}
